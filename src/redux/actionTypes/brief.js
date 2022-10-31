@@ -1,0 +1,3 @@
+export const GET_BRIEF_BEGIN = "GET_BRIEF_BEGIN";
+export const GET_BRIEF_SUCCESS = "GET_BRIEF_SUCCESS";
+export const GET_BRIEF_FAIL = "GET_BRIEF_FAIL";
